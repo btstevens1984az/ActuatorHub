@@ -1,0 +1,11 @@
+{
+  "name": "actuatorhub",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "capture": "node scripts/capture-media.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.51.0"
+  }
+}

@@ -1,0 +1,21 @@
+# ActuatorHub
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pyc
+__pycache__/
+.venv/
+venv/
+node_modules/
+frontend/dist/
+frontend/media/_frames/
+media/_frames/
+*.db
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
+*.log
+.cursor/
